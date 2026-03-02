@@ -10,16 +10,11 @@ The pipeline ensures that policies are validated, filtered, updated safely, and 
 
 ## Features
 
-**R1 – Noise Injection Test**
-Detects and rejects meaningless or random policy text that may corrupt the policy memory.
-**R2 – Policy Filtering**
-Filters unsafe or malicious policies containing restricted words like hack, steal, illegal, attack.
-**R3 – Update / Replace Strategy**
-Allows safe updating or replacing of policies in the memory database.
-**R4 – Conflict Handling**
-Detects contradictions between new policies and existing policies.
-**R5 – Memory Audit Log**
-Records all important system actions such as policy updates, filtering, and conflict detection.
+**R1 – Noise Injection Test** Detects and rejects meaningless or random policy text that may corrupt the policy memory.
+**R2 – Policy Filtering** Filters unsafe or malicious policies containing restricted words like hack, steal, illegal, attack.
+**R3 – Update / Replace Strategy** Allows safe updating or replacing of policies in the memory database.
+**R4 – Conflict Handling** Detects contradictions between new policies and existing policies.
+**R5 – Memory Audit Log** Records all important system actions such as policy updates, filtering, and conflict detection.
 
 ---
 
