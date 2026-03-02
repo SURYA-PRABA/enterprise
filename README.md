@@ -26,30 +26,37 @@ R5 – Memory Audit Log
 Records all important system actions such as policy updates, filtering, and conflict detection.
 
 ---
-
 ## How to Run
 
-**Open enterprise.py in Python or VS Code.**
-**Install required library:**
-  pip install scikit-learn
-**Run the script:**
-  python enterprise.py
+1. Open `enterprise.py` in Python or VS Code.
+
+2. Install the required library:
+
+pip install scikit-learn
+
+3. Run the script:
+
+python enterprise.py
 
 ---
 
 ## Technologies Used
 
-**Python**
-**Scikit-learn**
-**TF-IDF Vectorization**
-**Cosine Similarity**
-**Retrieval-Augmented Generation (RAG)**
+Python
+
+Scikit-learn
+
+TF-IDF Vectorization
+
+Cosine Similarity
+
+Retrieval-Augmented Generation (RAG)
 
 ---
-
 ## Authors
 
 Surya Praba
+
 Kaviya Sree
 
 ---
