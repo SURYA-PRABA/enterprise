@@ -1,4 +1,4 @@
-# enterprise
+# Enterprise
 
 ## Overview
 
