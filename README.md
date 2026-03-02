@@ -32,11 +32,11 @@ Records all important system actions such as policy updates, filtering, and conf
 
 2. Install the required library:
 
-pip install scikit-learn
+        pip install scikit-learn
 
 3. Run the script:
 
-python enterprise.py
+        python enterprise.py
 
 ---
 
